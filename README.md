@@ -1,6 +1,6 @@
 Kaggle Classification Project (ADML)
 
-This repository contains our work for a Kaggle-style classification competition (Master économétrie et statistiques). It includes the complete experimentation notebook (preprocessing, feature engineering, model training, evaluation) and the final submission file generated from the best model.
+This repository contains our work for a Kaggle classification competition (Master économétrie et statistiques). It includes the complete experimentation notebook (preprocessing, feature engineering, model training, evaluation) and the final submission file generated from the best model.
 
 ## Objective
 - Build and evaluate machine learning models for a classification task
