@@ -17,7 +17,7 @@ This repository contains our work for a Kaggle-style classification competition 
 ## Repository structure
 ```text
 .
-├─ data/
+├─ data
 │  ├─ train.csv
 │  └─ test.csv
 ├─ Projet_ADML_Almost_Optimal_ .ipynb
